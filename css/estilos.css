@@ -1,3 +1,11 @@
-.body {
-    background-color: lightsalmon;
+.tarjeta {
+    border: 6px solid #88bed3;
+    padding: 1rem;
+  }
+.titulos {
+  font-family: Brush Script MT, Cursive;
+  color: #5b89b4;
+}
+.fondo {
+  background-color: rgba(250, 179, 132, 0.384);
 }
