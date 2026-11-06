@@ -6,6 +6,14 @@
   font-family: Brush Script MT, Cursive;
   color: #5b89b4;
 }
+
 .fondo {
-  background-color: rgba(250, 179, 132, 0.384);
+  background-color: #e5f0ec;
+}
+.letra {
+  font-family: Brush Script MT, Cursive;
+  color: #376e5c;
+}
+.fondo1 {
+  background-color: #ffffff;
 }
